@@ -1,0 +1,3 @@
+- Hi my name is balu, i'm 19 years old and i'm codding since i'm 19
+- Currently not employed because of a few mental issues
+- Java's my Main Language
